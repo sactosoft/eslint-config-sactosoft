@@ -1,0 +1,18 @@
+{
+	"name": "eslint-config-sactosoft",
+	"version": "0.1.0",
+	"description": "ESLint configuration for SactoSoft applications",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sactosoft/eslint-config-sactosoft.git"
+	},
+	"author": "Mark White",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/sactosoft/eslint-config-sactosoft/issues"
+	},
+	"homepage": "https://github.com/sactosoft/eslint-config-sactosoft",
+	"devDependencies": {
+		"eslint": "^6.5.0"
+	}
+}
